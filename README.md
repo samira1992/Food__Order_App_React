@@ -18,7 +18,9 @@ _____
 
 ##### Images of the app:
 
-![image](https://github.com/samira1992/Food__Order_App_React/assets/49342424/b937d418-dbb0-467f-95e3-70f501503661)
+![image](https://github.com/samira1992/Food__Order_App_React/assets/49342424/d8ed4275-b0be-4a05-a601-cd8a2046e28f)
 
-![image](https://github.com/samira1992/Food__Order_App_React/assets/49342424/07960e61-3a85-4aea-91b1-ebb69da43986)
+
+![image](https://github.com/samira1992/Food__Order_App_React/assets/49342424/8c35d792-1b3d-4fd3-afe8-3f8273697f4b)
+
 
